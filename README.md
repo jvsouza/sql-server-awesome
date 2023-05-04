@@ -1,6 +1,6 @@
 # sql-server-awesome [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-![Progresso](https://progress-bar.dev/27/?title=Completed%20&width=160&color=54aeff)
+![Progresso](https://progress-bar.dev/3/?title=Completo%20&width=160&color=54aeff)
 
 Lista de técnicas e ferramentas para trabalhar com o sistema gerenciador de banco de dados relacional Microsoft SQL Server
 
