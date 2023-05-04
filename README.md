@@ -49,8 +49,8 @@ Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, pró
 - [Dicas (Tip)](/SSMS/SSMS_Tips.md)
 
 ### Formatador
-- [SQL Format](http://www.dpriver.com/pp/sqlformat.htm) - Instant SQL Formatter
-- [ExtendsClass](https://extendsclass.com/sql-formatter.html) - Online SQL formatter
+- [DPriver (OnLine)](http://www.dpriver.com/pp/sqlformat.htm)
+- [ExtendsClass (OnLine)](https://extendsclass.com/sql-formatter.html)
 
 ### Consulta
 * [Intro to SQL](https://github.com/datacamp/courses-introduction-to-sql) - DataCamp
