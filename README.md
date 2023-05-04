@@ -26,6 +26,7 @@ Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, pró
 │   └── example_02.sql (stored-procedure)
 ├── LICENSE
 └── README.md
+```
 
 ## Shields
 [![](https://img.shields.io/github/languages/top/jvsouza/sql-server-awesome)]()
