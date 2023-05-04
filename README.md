@@ -37,16 +37,16 @@ Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, pró
 - [T-SQL](#tsql)
 
 ### Installation
-- [SQL Server Developer](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+- [SQL Server (Developer)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
 ### Ferramenta
 - [SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
 
 ### SSMS
-- [SSMS addins](/SSMS/SSMS_Addins.md) 
-- [SSMS Snippets](/SSMS/SSMS_Snippets)
-- [SSMS Shortcuts](/SSMS/SSMS_Shortcuts.md) 
-- [SSMS Tips](/SSMS/SSMS_Tips.md)
+- [Suplemento (Add-In)](/SSMS/SSMS_Addins.md) 
+- [Bloco de código (Snippet)](/SSMS/SSMS_Snippets)
+- [Atalhos (Shotcut)](/SSMS/SSMS_Shortcuts.md) 
+- [Dicas (Tip)](/SSMS/SSMS_Tips.md)
 
 ### Formatador
 - [SQL Format](http://www.dpriver.com/pp/sqlformat.htm) - Instant SQL Formatter
