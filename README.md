@@ -19,9 +19,9 @@ Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, pró
 
 ## Estrutura de arquivos:
 ```text
-├── img
+├── image
 │   └── vitrinedev.png
-├── code
+├── script
 │   ├── example_01.sql (join)
 │   └── example_02.sql (stored-procedure)
 ├── LICENSE
